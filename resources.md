@@ -6,6 +6,7 @@
 3. [The Odin Project](http://www.theodinproject.com/)
 4. [Javascript 30] (https://Javascript30.com)
 5. [Create 5 web development projects] (https://www.udemy.com/creating-5-web-development-projects-in-html5-and-css3/learn/v4/overview)
+6. [the code player](https//thecodeplayer.com)
 
 
 

@@ -36,7 +36,7 @@ normalize.css "a small CSS file that provides better cross-browser consistency i
 just find out something important about the order of the properties. For example: margin: auto; placed before margin-top/bottom/left/right. otherwise override will occur.
 
 
-**Link to work:** 
+**Link to work:** Koala https://codepen.io/XixianEtter/pen/KmVNbP?editors=1100
 
 
 ### Day 00: 
@@ -46,7 +46,8 @@ just find out something important about the order of the properties. For example
 
 - Learn Sass https://www.codecademy.com/learn/learn-sass  
 - continue to finish Basic https://www.freecodecamp.com/Javascript
-**Project**:
+- chap2: coding artist http://coding-artist.teachable.com/courses/155435/lectures/2312834
+####Project:
 Koala project (working on)
 http://www.theodinproject.com/courses/web-development-101/lessons/html-css
 

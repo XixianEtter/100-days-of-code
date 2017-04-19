@@ -37,12 +37,10 @@ it is preparing for the #100dayschallenge.
 - Learn Git 1:30pm-3:30 https://www.codeschool.com/learn/git
 Distributde Version Control System (DVCS)
 Git vs Github
-- Git basics ( using cmd) 
+Git basics ( using cmd) 
   http://www.theodinproject.com/courses/web-development-101/lessons/git-basics
   https://try.github.io/levels/1/challenges/10
-- clone and push 
-  git reset HEAD filename
-  git reset SHA
+clone and push /git reset HEAD filename/ git reset SHA
 
 
 

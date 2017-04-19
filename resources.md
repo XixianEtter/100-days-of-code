@@ -1,11 +1,21 @@
 # Recommended resources
 
+## Projects and Ideas
+1. [CSS image](http://coding-artist.teachable.com)
+2. [FreeCodeCamp](https://www.freecodecamp.com)
+3. [The Odin Project](http://www.theodinproject.com/)
+4. [Javascript 30] (https://javascript30.com/)
+5. [Create 5 web development projects] (https://www.udemy.com/creating-5-web-development-projects-in-html5-and-css3/learn/v4/overview)
+
+
+
+
+
 ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 
-## Projects and Ideas
-1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [The Odin Project](http://www.theodinproject.com/)
+
+
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)

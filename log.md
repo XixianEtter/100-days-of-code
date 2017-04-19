@@ -30,3 +30,24 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
+### Day 00: April 19, 2017 
+##### (delete me or comment me out)
+it is preparing for the #100dayschallenge.
+**Today's Progress**: 
+- Learn Git https://www.codeschool.com/learn/git
+- Learn Sass https://www.codecademy.com/learn/learn-sass
+- start the  Making Our First Pure CSS Image (23:27) http://coding-artist.teachable.com/courses/enrolled/155435
+- continue to finish Basic https://www.freecodecamp.com/Javascript
+**Project**: building navigation bar (horizontally + vertically);
+**Thoughts:** 
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+### Day 0: 
+##### (delete me or comment me out)
+
+**Today's Progress**: 
+
+**Thoughts**: I
+
+**Link(s) to work**: 

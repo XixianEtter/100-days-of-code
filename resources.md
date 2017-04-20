@@ -7,6 +7,7 @@
 4. [Javascript 30] (https://Javascript30.com)
 5. [Create 5 web development projects] (https://www.udemy.com/creating-5-web-development-projects-in-html5-and-css3/learn/v4/overview)
 6. [the code player](https//thecodeplayer.com)
+7. https://forum.freecodecamp.com/t/computer-guide-get-job-ready-with-1-fcc-cert-3-projects-2-courses-and-10-books/64027
 
 
 

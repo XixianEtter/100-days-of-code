@@ -43,17 +43,20 @@ just find out something important about the order of the properties. For example
 ##### (delete me or comment me out)
 
 **Today's Progress**: 
-
-- Learn Sass https://www.codecademy.com/learn/learn-sass  
+#####DONE
 - continue to finish Basic https://www.freecodecamp.com/Javascript
+
+#####NOTYET
+- Learn Sass https://www.codecademy.com/learn/learn-sass  
+
 - chap2: coding artist http://coding-artist.teachable.com/courses/155435/lectures/2312834
 ####Project:
 Koala project (working on)
 http://www.theodinproject.com/courses/web-development-101/lessons/html-css
 
-**Thoughts**: I
+**Thoughts**: going to finish JS basic
 
-**Link(s) to work**: 
+**Link(s) to work**:https://github.com/XixianEtter/JSpsimple-project
 
 
 <!-- EXAMPLE 

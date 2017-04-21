@@ -58,7 +58,26 @@ http://www.theodinproject.com/courses/web-development-101/lessons/html-css
 
 **Link(s) to work**:https://github.com/XixianEtter/JSpsimple-project
 
+### Day 0: 
+##### (delete me or comment me out)
 
+**Today's Progress**: 
+#####DONE
+- finish Basic https://www.freecodecamp.com/Javascript
+- finish FFC: Object Oriented and Functional Programming
+
+
+#####NOTYET
+- Learn Sass https://www.codecademy.com/learn/learn-sass  
+
+- chap2: coding artist http://coding-artist.teachable.com/courses/155435/lectures/2312834
+####Project:
+Koala project (working on)
+http://www.theodinproject.com/courses/web-development-101/lessons/html-css
+
+**Thoughts:**
+
+**Link(s) to work**:https://github.com/XixianEtter/JSpsimple-project
 <!-- EXAMPLE 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)

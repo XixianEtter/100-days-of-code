@@ -48,6 +48,7 @@ just find out something important about the order of the properties. For example
 
 #####NOTYET
 - Learn Sass https://www.codecademy.com/learn/learn-sass  
+https://thachpham.com/web-development/html-css/huong-dan-su-dung-sass-de-viet-css.html
 
 - chap2: coding artist http://coding-artist.teachable.com/courses/155435/lectures/2312834
 ####Project:
@@ -64,20 +65,21 @@ http://www.theodinproject.com/courses/web-development-101/lessons/html-css
 **Today's Progress**: 
 #####DONE
 - finish Basic https://www.freecodecamp.com/Javascript
-- finish FFC: Object Oriented and Functional Programming
-
+- chap2: coding artist http://coding-artist.teachable.com/courses/155435/lectures/2312834
+- finish FFC: Object Oriented and Functional Programming (working)
 
 #####NOTYET
 - Learn Sass https://www.codecademy.com/learn/learn-sass  
 
-- chap2: coding artist http://coding-artist.teachable.com/courses/155435/lectures/2312834
+
 ####Project:
-Koala project (working on)
-http://www.theodinproject.com/courses/web-development-101/lessons/html-css
+cssimgDay1 Bear cub https://codepen.io/XixianEtter/pen/jmqQYE?editors=1100 (done)
+http://www.theodinproject.com/courses/web-development-101/lessons/html-css (not yet)
 
 **Thoughts:**
 
 **Link(s) to work**:https://github.com/XixianEtter/JSpsimple-project
+https://codepen.io/XixianEtter/pen/jmqQYE?editors=1100
 <!-- EXAMPLE 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)

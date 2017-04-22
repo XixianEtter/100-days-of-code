@@ -85,16 +85,16 @@ https://codepen.io/XixianEtter/pen/jmqQYE?editors=1100
 ##### (delete me or comment me out)
 
 **Today's Progress**: 
-
-- DONE Coding Aritst-extra practice:[z-index, reponsive, sketch logo](http://coding-artist.teachable.com/courses/155435/lectures/2312834)
-- finish FFC: Object Oriented and Functional Programming (working)
+- Learn Sass https://www.codecademy.com/learn/learn-sass  
+- Learn Pug (html) [Pug (install Node.js & npm)](http://webfaver.com/client-side/html5/voi-jade-pug-cong-viec-cat-html-tro-nen-nhanh-hon-phan-1.html)
+- DONE Coding Aritst-extra practice:[z-index, reponsive, sketch logo+ ANIMATION](http://coding-artist.teachable.com/courses/155435/lectures/2312834)
+- DONE finish FFC: Object Oriented and Functional Programming
 - DONE HTML &CSS: [pseudo-class/element]. [Postion property](https://www.w3schools.com/css/css_positioning.asp) 
-- [Pug (install Node.js & npm)](http://webfaver.com/client-side/html5/voi-jade-pug-cong-viec-cat-html-tro-nen-nhanh-hon-phan-1.html)
+- 
 
 
 #####NOTYET
-- Learn Sass https://www.codecademy.com/learn/learn-sass  
-- Learn Pug (html) 
+
 - Learn Git (continuos)
 
 

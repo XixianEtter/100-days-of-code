@@ -80,6 +80,32 @@ http://www.theodinproject.com/courses/web-development-101/lessons/html-css (not 
 
 **Link(s) to work**:https://github.com/XixianEtter/JSpsimple-project
 https://codepen.io/XixianEtter/pen/jmqQYE?editors=1100
+
+### Day 1: April 22, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: 
+
+- DONE Coding Aritst-extra practice:[z-index, reponsive, sketch logo](http://coding-artist.teachable.com/courses/155435/lectures/2312834)
+- finish FFC: Object Oriented and Functional Programming (working)
+- DONE HTML &CSS: [pseudo-class/element]. [Postion property](https://www.w3schools.com/css/css_positioning.asp) 
+- [Pug (install Node.js & npm)](http://webfaver.com/client-side/html5/voi-jade-pug-cong-viec-cat-html-tro-nen-nhanh-hon-phan-1.html)
+
+
+#####NOTYET
+- Learn Sass https://www.codecademy.com/learn/learn-sass  
+- Learn Pug (html) 
+- Learn Git (continuos)
+
+
+####Project:
+cssimgDay2 Bear cub https://codepen.io/XixianEtter/pen/jmqQYE?editors=1100 (done)
+http://www.theodinproject.com/courses/web-development-101/lessons/html-css (not yet)
+
+**Thoughts:**
+
+**Link(s) to work**:https://github.com/XixianEtter/JSpsimple-project
+https://codepen.io/XixianEtter/pen/jmqQYE?editors=1100
 <!-- EXAMPLE 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)

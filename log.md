@@ -106,6 +106,31 @@ http://www.theodinproject.com/courses/web-development-101/lessons/html-css (not 
 
 **Link(s) to work**:https://github.com/XixianEtter/JSpsimple-project
 https://codepen.io/XixianEtter/pen/jmqQYE?editors=1100
+
+### Day 2: April 25, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: 
+
+
+- DONE HTML &CSS: [Position101](https://alistapart.com/article/css-positioning-101#comments)
+[floating 101](https://alistapart.com/article/css-floats-101) -working
+box-sizing: box-border; /inherit 
+
+- Learn basic terminal (working)
+
+
+#####NOTYET
+
+
+
+
+
+####Project:
+
+**Thoughts:**
+
+**Link(s) to work**:https://codepen.io/XixianEtter/pen/RVGPQG
 <!-- EXAMPLE 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
